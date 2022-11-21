@@ -1,0 +1,10 @@
+[WARN] [class Main] [2022-11-21T19:30:15.040974797] Cute warn message
+[INFO] [class Main] [2022-11-21T19:30:55.557317188] Cute info message
+[DEBUG] [class Main] [2022-11-21T19:30:55.559118016] Cute debug message
+[WARN] [class Main] [2022-11-21T19:30:55.559529629] Cute warn message
+[INFO] [class Main] [2022-11-21T19:31:00.767758707] Cute info message
+[DEBUG] [class Main] [2022-11-21T19:31:00.768735361] Cute debug message
+[WARN] [class Main] [2022-11-21T19:31:00.768978904] Cute warn message
+[INFO] [class Main] [2022-11-21T19:32:25.402240366] Cute info message
+[DEBUG] [class Main] [2022-11-21T19:32:25.403924475] Cute debug message
+[WARN] [class Main] [2022-11-21T19:32:25.404434660] Cute warn message
