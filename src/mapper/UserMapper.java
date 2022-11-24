@@ -2,6 +2,7 @@ package mapper;
 
 import model.Sex;
 import model.User;
+import service.validation.UserValidationRequest;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -31,5 +32,15 @@ public class UserMapper {
         user.setSex(Sex.valueOf(strings[i++]));
         user.setEmail(strings[i++]);
         return user;
+    }
+
+    public static User toObject(UserValidationRequest request) {
+        return new User(request.getUserName(),
+                request.getPassword(),
+                request.getFirstName(),
+                request.getLastName(),
+                LocalDate.parse(request.getBirthDate(),DateTimeFormatter.ISO_LOCAL_DATE),
+                Sex.valueOf(request.getSex()),
+                request.getEmail());
     }
 }

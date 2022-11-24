@@ -8,3 +8,34 @@
 [INFO] [class Main] [2022-11-21T19:32:25.402240366] Cute info message
 [DEBUG] [class Main] [2022-11-21T19:32:25.403924475] Cute debug message
 [WARN] [class Main] [2022-11-21T19:32:25.404434660] Cute warn message
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:19:27.374651523] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:19:41.853434432] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:19:41.854345388] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:20:34.596979801] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:20:42.153086355] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:20:42.154041904] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:21:00.418094692] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:21:00.418710019] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:21:54.976009978] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:22:07.115550705] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:22:07.116525873] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:22:32.668365731] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:22:32.669020941] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:24:07.530728900] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:24:13.649342276] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:24:13.650153795] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:27:45.785570795] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:27:53.824251612] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:27:53.824987595] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:28:03.500708075] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:28:23.646533149] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:29:00.380715946] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:29:00.381969107] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:29:11.936921486] Error during initializing
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:29:17.377511623] Error in time looking for user with username = root
+[INFO] [class ui.ConsoleInterface] [2022-11-23T19:29:17.378179768] Ввели не верные данные
+[ERROR] [class repository.ipml.FileUserRepository] [2022-11-23T19:29:51.437238063] Error during initializing
+[DEBUG] [class repository.ipml.FileUserRepository] [2022-11-23T19:31:11.129968098] Create UserIdCount with initial value: 1
+[DEBUG] [class repository.ipml.FileUserRepository] [2022-11-23T19:33:28.794617100] Create UserIdCount with initial value: 1
+[DEBUG] [class repository.ipml.FileUserRepository] [2022-11-23T21:12:19.766985705] Create UserIdCount with initial value: 1
+[DEBUG] [class repository.ipml.FileUserRepository] [2022-11-23T21:14:46.293693450] Create UserIdCount with initial value: 1
